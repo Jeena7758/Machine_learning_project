@@ -1,0 +1,18 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+venv/
+*.so
+*.pkl
+venv/
+*.pkl
+*.so
+venv/
+*.pkl
+venv/
+*/venv
+./venv
+
+
